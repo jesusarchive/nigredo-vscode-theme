@@ -1,0 +1,2 @@
+# Nigredo VSCode theme 
+

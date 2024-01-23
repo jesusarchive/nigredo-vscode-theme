@@ -1,0 +1,21 @@
+{
+  "name": "nigredo",
+  "displayName": "Nigredo",
+  "description": "Customized version of default VSCode Dark High Contrast theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nigredo",
+        "uiTheme": "hc-black",
+        "path": "./themes/Nigredo-color-theme.json"
+      }
+    ]
+  }
+}
